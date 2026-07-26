@@ -1,7 +1,7 @@
 # bike-buyers-excel-analysis
-This project analyzes a dataset of 1,027 bike buyers using Microsoft Excel to understand customer purchasing behavior.
+This project analyzes a dataset of 1,000 bike buyers using Microsoft Excel to understand customer purchasing behavior.
 ## Dataset
-- Records: 1,027
+- Records: 1,000
 - Features:
   - Gender
   - Marital Status
