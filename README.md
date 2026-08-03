@@ -8,7 +8,7 @@ Analysis of a 1,000-customer dataset to identify factors influencing bike purcha
 
 ## Dashboard Preview
 
-![Dashboard]()
+![Dashboard](dashboard.png)
 
 ---
 
